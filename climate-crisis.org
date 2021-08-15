@@ -1,0 +1,57 @@
+* Climate Crisis
+The notes and ideas related to climate crisis problems, both short and long term. There will be many acute climate issues from frequent and increasingly common 'natural disasters' and we need good technology and organization to save the most people. We also need a medium and long view set of solutions for a sustainable future. The climate is irreversably destabalized, but we must take radical and deliberate action to maintain our Earth for a livable future for the next generations; it will not always be easy, but the future can be protected, our species can learn to live in greater harmony if we face this reality we have created for ourselves. Those mid to long term solutions can be tricky, so this set of notes is not guaranteed to be the smartest - I'm just doing my best to help the world.
+
+* My Approach
+Since I'm only one man, naive and inexperienced with many (most) things, I have to stick with a method that has worked best for me so far: iteration. This project is a long-running project with an eye towards solving problems associated with the climate crisis. As time goes on, I will learn more about these things, find solutions that work and help, and many that don't. But it's a 'living project' with version tracking, so it's all ok.
+
+Basically, I'm starting somewhere with a bit of an idea and a bit of willpower and a lot of need to solve problems, and taking things one chunk at a time. Then iterate, iterate, iterate. Always paying attention to how well a problem is being solved and how the externalities are affecting the big picture issues as well.
+
+I'm doing the 'dumb' thing first, and building off of it.
+
+* Where to start?
+I don't know what to do, but it's a war to be fought on multiple fronts:
+
+ - technological
+ - ideological
+ - personal
+ - collectively (radicalize and organize)
+ - policy
+ - community
+ - economically (even though capitalism seems to be a major player that got us here...)
+ - activism
+ - civil disobedience (ACAB, land back, BLM, other movements I don't yet know about)
+ - educational
+
+If I think briefly about my personal strengths, weaknesses, and values, I suspect I'll have the most success in life by focusing on:
+
+ - technological (I'm decent at industrial design, building things, engineering, and coding)
+ - educational (I enjoy creating content explaining technical topics and sometimes am told that I'm good at it)
+ - community (I love people and enjoy building a community around technical topics and ideas)
+ - economically (I suspect that since I come from a fairly rich, white family that I'll tend to have good access to money)
+
+I want to keep improving my understanding of how movements work, and what the ideologies are behind our modern ones, so perhaps I can aid more in those categories in the future, but I think building a strong network of other good people will be a better approach. I have roommates who are better scientists and policy studiers/creators who I think are far better equipped to lead in those areas.
+
+* Things to build
+Just brainstorming stuff:
+
+ - DIY solar kits for small-scale indoor climate control (eg. Solar water heaters??)
+ - small desalination units
+ - better containers for moving stuff in public transport situations (have a doc for this already)
+ - off-grid custom 'kit' homes that can be aesthetically designed online by the clients
+ - open source and consumer facing CAD tools to allow decentralization of designs and solutions
+ - Plastic recycling unit? Something that melts down plastics and can extrude them into plastic billets for design projects
+ - off-grid tech. worker station (full compute and internet capabilities without plugging in to a wall??)
+ - manufacturing robots for more remote factory deployments - let people build in their local communities using open robotics and mini build facilities
+ - modern hand tool solutions - designs for modern tech and machines that can be built with sustainable materials and low or no power tools
+ - and more as I figure things out.
+
+* Other Things to Create
+brainstorming:
+
+ - a regular charity stream where I do non-programming stuff (games, art) to raise money for climate crisis charities
+ - a book on designing for climate crisis?
+ - regular blog post/newsletter sharing technical and policy topics that I've studied each week? month?
+ - essays, songs, poems, illustrations to help with the emotional aspects of the crisis
+ - Podcast where I interview experts in the tech and political areas that I don't know about - careful with this as I would want it to be of very high quality
+ - 
+
